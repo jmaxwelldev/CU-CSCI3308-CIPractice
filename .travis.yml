@@ -1,4 +1,4 @@
-install: make dep
+install: sudo make dep
 language: c
 compiler:
   -gcc
