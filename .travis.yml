@@ -1,4 +1,4 @@
 install: sudo make dep
 language: c
 script: 
-  -make test
+  - make test
